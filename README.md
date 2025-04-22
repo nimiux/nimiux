@@ -7,7 +7,11 @@
 
 - 👯 Me gustaría aprender más sobre [Docker](https://www.docker.com/)
 
+- 👨‍💻 Tengo todos mis proyectos en [https://codeberg.org/nimiux](https://codeberg.org/nimiux)
+
 - 💬 Me puedes preguntar sobre **GNU/Linux**
+
+- 📫 Me puedes encontrar en **https://freeshell.de/nimiux/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
